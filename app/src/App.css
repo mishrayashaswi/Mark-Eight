@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.App {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 12.5rem;
+}
+.bg-color {
+  background-color: #6bfaff;
+  padding: 3.25rem;
+}
+.search {
+  padding: 1em;
+  min-width: 80%;
+}
+.fruits {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
